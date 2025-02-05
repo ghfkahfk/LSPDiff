@@ -1,0 +1,4 @@
+lightning:
+  trainer:
+    strategy: ddp
+    gpus: 0
